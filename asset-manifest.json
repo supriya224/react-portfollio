@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfollio/static/css/main.70e8654a.css",
+    "main.js": "/react-portfollio/static/js/main.6fc7bc7b.js",
+    "static/media/img7.jpg": "/react-portfollio/static/media/img7.1f128d87f349353b9bed.jpg",
+    "static/media/img8.jpg": "/react-portfollio/static/media/img8.b45e089c79f47ef15686.jpg",
+    "static/media/img6.jpg": "/react-portfollio/static/media/img6.9db75eaf6d9a89e56a75.jpg",
+    "static/media/supriya.pdf": "/react-portfollio/static/media/supriya.37930d535728adf3c3fa.pdf",
+    "static/media/img10.jpg": "/react-portfollio/static/media/img10.6c8ab8e73a098aba3911.jpg",
+    "static/media/img9.jpg": "/react-portfollio/static/media/img9.4534f42c4f42cba26dcf.jpg",
+    "index.html": "/react-portfollio/index.html",
+    "main.70e8654a.css.map": "/react-portfollio/static/css/main.70e8654a.css.map",
+    "main.6fc7bc7b.js.map": "/react-portfollio/static/js/main.6fc7bc7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e8654a.css",
+    "static/js/main.6fc7bc7b.js"
+  ]
+}
